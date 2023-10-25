@@ -1,0 +1,47 @@
+.head{
+    background-color: black;
+    color: white;
+    padding: 2%
+}
+.video{
+    padding-left: 22%;
+    padding-top: 3%;
+    padding-right: 22%;
+    padding-bottom: 15%;
+}
+
+/* iframe{
+    padding-left: 25%;
+    padding-top: 3%;
+    padding-right: 25%;
+} */
+
+.NOTE{
+    background-color: white;
+    margin-left: 62%;
+    margin-top: -43%;
+    
+    margin-bottom: -10%;
+    /* padding-left: 4%;
+    padding-right: 4%; */
+    padding: 4%;
+}
+
+.TREND{
+    background-color: black;
+    color: white;
+    padding: 10%;
+    margin-left: 10%;
+    margin-right: 10%;
+    margin-bottom: 10%;
+}
+.style{
+    background-image:url(https://www.myg.in/images/blog/17/Top-10-Laptop-Brands.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+table{
+    
+    margin: 4%;
+}
